@@ -1,0 +1,16 @@
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.exe
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.deps.json
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.json
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.dev.json
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.dll
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\ref\Laboratorio10.dll
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\bin\Debug\net5.0\Laboratorio10.pdb
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.AssemblyReference.cache
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfo.cs
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.dll
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\ref\Laboratorio10.dll
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.pdb
+C:\Users\Lucas_Dinesh\AndroidStudioProjects\Csharp\Laboratorio10\obj\Debug\net5.0\Laboratorio10.genruntimeconfig.cache
