@@ -33,28 +33,28 @@ namespace Laboratorio10
             // List<Pessoa> solteiras = new List<Pessoa>;
             var resultado =
             from p in pessoas
-            group p by p.Casada into grupoPessoas
+            group p.Nome by p.Casada into grupoPessoas
             select new
             {
-                Categoria = grupoPessoas.Key ? "casada" : "solteira",
+                Categoria = grupoPessoas.Key ,
                 Pessoas = grupoPessoas.ToList(),
                 quantidade = grupoPessoas.Count()
             };
 
-            // foreach (var pessoa in resultado)
-            // {
-            //     Console.WriteLine(pessoa);
-            //     foreach (var x in pessoa.Pessoas)
-            //     {
-            //         Console.WriteLine(x);
+            foreach (var pessoa in resultado)
+            {
+                Console.WriteLine(pessoa);
+                foreach (var x in pessoa.Pessoas)
+                {
+                    Console.WriteLine(x);
 
-            //     }
-            // }  
+                }
+            }  
 
-            var older = pessoas.OrderBy((pessoa)=>pessoa.DataNascimento).First();
-            var young = pessoas.Where(p => !p.Casada).OrderBy((pessoa)=>pessoa.DataNascimento).Last();
+            // var older = pessoas.OrderBy((pessoa)=>pessoa.DataNascimento).First();
+            // var young = pessoas.Where(p => !p.Casada).OrderBy((pessoa)=>pessoa.DataNascimento).Last();
 
-            Console.WriteLine(young);
+            // Console.WriteLine(young);
         }
     }
 }

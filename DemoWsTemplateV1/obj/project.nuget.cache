@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmWGg9+SP++QLyPGzB0NxiS1eECfx5Sogni2QhUsJul04zTQCyPY0WbztcrxywH9NZXpC2n6OkV00dIGPDYirw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas_Dinesh\\AndroidStudioProjects\\Csharp\\DemoWsTemplateV1\\DemoWsTemplateV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucas_Dinesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
